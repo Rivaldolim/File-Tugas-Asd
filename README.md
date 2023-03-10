@@ -1,5 +1,5 @@
 Langkah-langkah kerja 
-1 . Program menelima input berupa data yang diinginkan dan array berisi data terurut . 
+1 . Masukan input berupa data yang diinginkan dan array berisi data terurut . 
 2 . Menghitung rumus ukuran blok , n adalah ukuran array . 
 3 . Gunakan blok pertama sebagai acuan data . 
 4 . Program memeriksa data pada akhir blok untuk menentukan apakah data yang dicari berada di dalam blok atau tidak.
