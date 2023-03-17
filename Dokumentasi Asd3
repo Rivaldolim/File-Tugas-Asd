@@ -1,0 +1,2 @@
+Proses listlinked
+inked List adalah struktur berupa rangkaian elemen saling berkait dimana tiap elemen dihubungkan ke elemen yang lain melalui pointer. Pointer adalah alamat elemen. Penggunaan pointer untuk mengacu elemen berakibat elemen-elemen bersebelahan secara logik walaupun tidak bersebelahan secara fisik di memori.
